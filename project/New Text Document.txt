@@ -1,0 +1,39 @@
+
+
+Install terrasact.exe, given in this folder, note down its path
+C:\Users\SURAJ\AppData\Local\Tesseract-OCR\
+
+Install sqllite,and its GUI tool
+https://www.sqlitetutorial.net/download-install-sqlite/
+
+Install required packages that are used in code
+
+Run app.py from notebook or cmd
+
+
+Launch SQLite Studio (GUI Tool)
+
+Go to add database, green icon
+Then + sign, go to location where you want to create DB
+Give name and note down path
+
+C:/sqlite/Lab_Reports.db
+
+
+Go to DB, double click, right click on add table run below query
+
+
+CREATE TABLE CITY_PATHOLOGY_LAB_FEVER_PANEL (
+    Patient_Name    PRIMARY KEY,
+    Hemoglobin,
+    PCV,
+    RBC,
+    MCV,
+    MCH,
+    MCHC,
+    RDW,
+    TLC,
+    Platelet_Count
+);
+
+

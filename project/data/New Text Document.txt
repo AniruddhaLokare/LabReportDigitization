@@ -1,0 +1,7 @@
+https://stackabuse.com/pytesseract-simple-python-optical-character-recognition/
+
+
+C:\Users\SURAJ\AppData\Local\Tesseract-OCR\
+
+
+https://www.sqlitetutorial.net/download-install-sqlite/
